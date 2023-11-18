@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DemoEmployees</string>
+    <string name="new_employee_name">Nombre</string>
+    <string name="new_employee_position">Posición</string>
+    <string name="new_employee_salary">Salario</string>
+    <string name="add_employee">Añadir</string>
+    <string name="new_department_name">Nombre del Departamento</string>
+    <string name="new_department_city">Ciudad del Departamento</string>
+    <string name="add_department">Add departament</string>
+    <string name="new_department_id">id del departamento</string>
+    <string name="buscar">Buscar</string>
+    <string name="id">id</string>
+</resources>
